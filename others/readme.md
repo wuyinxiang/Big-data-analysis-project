@@ -1,6 +1,6 @@
 # Big-data-analysis-project
 
-+ [project description](Big-data-analysis-project/README.md)
++ [project description](README.md)
 
 
 ## Getting Started
